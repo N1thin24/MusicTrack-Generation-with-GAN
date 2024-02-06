@@ -9,7 +9,9 @@ Unlike traditional machine learning where a higher accuracy is always desired, i
 **Features**
 
 Music Generation: Uses GANs to generate music tracks in MIDI format.
+
 MIDI Parsing: Converts existing songs into MIDI format for the GAN to learn from.
+
 Genre Flexibility: Capable of generating music across various genres by training on diverse datasets.
 
 **To Improve:**
